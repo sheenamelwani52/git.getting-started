@@ -1,1 +1,2 @@
-Creating a file in branch
+Creating a file in branch. Merging both branches didn't show up any conflicts. trying again to create the conflicts.
+Making changes in file.txt and commiting to master branch
