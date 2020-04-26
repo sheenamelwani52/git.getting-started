@@ -1,1 +1,2 @@
 Creating a file in branch
+making changes in the same file and commiting to mybranch to observe conflicts at merge stage 
