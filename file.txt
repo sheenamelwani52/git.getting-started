@@ -1,2 +1,5 @@
 Creating a file in branch. Merging both branches didn't show up any conflicts. trying again to create the conflicts.
 Making changes in file.txt and commiting to master branch
+making changes in the same file and commiting to mybranch to observe conflicts at merge stage 
+
+Got the merge conflicts now and trying to to resolve them
